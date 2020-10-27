@@ -1,0 +1,7 @@
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\bin\Debug\ClientProxy_Console-P4-20160140086.exe.config
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\bin\Debug\ClientProxy_Console-P4-20160140086.exe
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\bin\Debug\ClientProxy_Console-P4-20160140086.pdb
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\obj\Debug\ClientProxy_Console-P4-20160140086.csprojAssemblyReference.cache
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\obj\Debug\ClientProxy_Console-P4-20160140086.csproj.CoreCompileInputs.cache
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\obj\Debug\ClientProxy_Console-P4-20160140086.exe
+D:\git_wcf\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\ClientProxy_Console-P4-20160140086\obj\Debug\ClientProxy_Console-P4-20160140086.pdb
